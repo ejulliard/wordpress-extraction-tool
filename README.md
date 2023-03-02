@@ -12,7 +12,7 @@ En somme, notre outil de migration de site web est une solution simple, efficace
 
 ## Comment cela fonctionne ?
 
-Afin de faciliter le travail d'intégration dans votre nouveau framework, l'outil vous génère des fichiers de base : JSON pour les data et Markdown pour le contenu.
+Afin de faciliter le travail d'intégration dans votre nouveau framework, l'outil vous génère des fichiers de base : JSON pour les data et Markdown pour le contenu. En plus, il est RankMath friendly !
 
 ### Pourquoi le JSON ?
 
@@ -86,7 +86,8 @@ In summary, our website migration tool is a simple, efficient, and fast solution
 
 ## How it Works?
 
-To facilitate the integration process into your new framework, our tool generates basic files: JSON for data and Markdown for content.
+To facilitate the integration process into your new framework, our tool generates basic files: JSON for data and Markdown for content. 
+Plus, it's RankMath friendly!
 
 ### Why JSON?
 
