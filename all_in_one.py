@@ -4,7 +4,7 @@ import regex as re
 import markdownify
 
 # YOUR URL
-url = "https://www.treepeo.com"
+url = ""
 
 # COPY-PASTE YOUR XML'S RSS MAP
 NS_MAP = {
@@ -35,12 +35,12 @@ for item in root.iter('item'):
     category = item.findall("category")
     for cat in category:
         categories.append(cat.text)
-    pages_file.write('{\n"category": "' + categories + '",\n')
+    pages_file.write('{\n"category": "' + str(categories) + '",\n')
     image = item.find("guid").text
     imageUrls = re.search('(?<=' + url + '/wp-content/uploads/\d*/\d*)(/.*)', image)
     if imageUrls:
         imageUrl = imageUrls.group(0)
-        pages_file.write('"image": "/assets/' + imageUrl + '",\n')
+        pages_file.write('"image": "/assets' + imageUrl + '",\n')
     
     # CONTENT EXTRACTION
     content = item.find("content:encoded", NS_MAP).text

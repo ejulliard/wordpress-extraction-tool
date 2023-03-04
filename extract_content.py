@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import markdownify
 
 # YOUR URL
-url = "https://www.treepeo.com"
+url = ""
 
 # COPY-PASTE YOUR XML'S RSS MAP
 NS_MAP = {

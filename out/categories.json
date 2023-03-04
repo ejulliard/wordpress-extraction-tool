@@ -1,0 +1,338 @@
+{
+"categories":
+[
+{
+"id": "169",
+"name": "Europe",
+"slug": "europe",
+{
+"id": "231",
+"name": "Expat",
+"slug": "expat",
+"seoTitle": "Expatriation - Start the process of living in Prague",
+"seoDescription": "Here we explain absolutely everything you need to know in order to start your expatriation to Prague ❤️",
+"keywords": "Expatriation"
+},{
+"id": "65",
+"name": "Expatriation",
+"slug": "expatriation",
+"seoTitle": "Expatriation - Entamez les démarches pour vivre à Prague",
+"seoDescription": "Ici, on vous explique absolument tout ce que vous devez savoir afin d'entamer les premières démarches en vue de votre expatriation à Prague ❤️",
+"keywords": "Expatriation"
+},{
+"id": "171",
+"name": "Germany",
+"slug": "germany",
+"seoTitle": "How to best organize your stay in Germany?",
+"seoDescription": "Discover how to best organize your stay in Germany through our exclusive content on Berlin, Munich, Nuremberg and many other cities.",
+"keywords": "Germany"
+},{
+"id": "181",
+"name": "Hungary",
+"slug": "hungary",
+"seoTitle": "Discover all you need to know about Hungary and Budapest",
+"seoDescription": "Planning a trip to Hungary? Find out everything you need to know about the capital city of Budapest and the surrounding cultural and historical sites.",
+"keywords": "Hungary"
+},{
+"id": "183",
+"name": "Latvia",
+"slug": "latvia",
+"seoTitle": "Latvia: make the most of your stay in Riga!",
+"seoDescription": "Organize your stay in Riga thanks to our various articles, advice and tips on the best things to do in Riga.",
+"keywords": "Latvia"
+},{
+"id": "185",
+"name": "Lithuania",
+"slug": "lithuania",
+"seoTitle": "Lithuania: make the most of your stay in Vilnius!",
+"seoDescription": "Organize your stay in Vilnius thanks to our various articles, advice and tips on the best things to do there.",
+"keywords": "Lithuania"
+},{
+"id": "197",
+"name": "Middle East",
+"slug": "middle-east",
+"seoDescription": "Organize your trip to this beautiful region of the Middle East. Qatar, United Arab Emirates or Oman... Embark with us!",
+"seoTitle": "Organize your stay in the heart of the Middle East",
+"keywords": "Middle East"
+},{
+"id": "75",
+"name": "Moyen-Orient",
+"slug": "moyen-orient",
+"seoTitle": "Organisez votre séjour au coeur même du Moyen-Orient",
+"seoDescription": "Organisez au mieux votre voyage dans cette belle région qu'est le Moyen-Orient. Qatar, Émirats arabes unis ou encore Oman... Embarquez avec nous !",
+"keywords": "Moyen-Orient"
+},{
+"id": "7",
+"name": "Non classé",
+"slug": "non-classe-en",
+{
+"id": "189",
+"name": "Poland",
+"slug": "poland",
+"seoTitle": "Poland: make the most of your stay in Europe",
+"seoDescription": "Organize your stay in the most beautiful cities of Poland, such as Krakow, Warsaw and many others, for an exceptional vacation.",
+"keywords": "Poland"
+},{
+"id": "416",
+"name": "Portugal",
+"slug": "portugal",
+{
+"id": "203",
+"name": "Qatar",
+"slug": "qatar-middle-east",
+"seoTitle": "Discover all about Doha and Qatar",
+"seoDescription": "Are you planning to discover Doha, Qatar and the Middle East in general? Discover here all you need to know to organize your stay.",
+"keywords": "Qatar"
+},{
+"id": "191",
+"name": "Romania",
+"slug": "romania",
+"seoTitle": "Romania: make the most of your stay in Europe",
+"seoDescription": "Organize your stay in the heart of Romania, in Bucharest or anywhere else in the country, for an exceptional vacation you won't forget !",
+"keywords": "Romania"
+},{
+"id": "392",
+"name": "Royaume Uni",
+"slug": "royaume-uni",
+{
+"id": "193",
+"name": "Slovakia",
+"slug": "slovakia",
+"seoTitle": "Slovakia: make the most of your stay in Bratislava!",
+"seoDescription": "Organize your stay in Bratislava and Slovakia with our articles, tips and advice on the best things to do there.",
+"keywords": "Slovakia"
+},{
+"id": "195",
+"name": "Slovenia",
+"slug": "slovenia",
+"seoTitle": "How to best organize your stay in Slovenia?",
+"seoDescription": "Organize your stay in Ljubljana in the best possible way, thanks to our various articles, tips and advice on the best things to do there.",
+"keywords": "Slovenia"
+},{
+"id": "177",
+"name": "Spain",
+"slug": "spain",
+"seoTitle": "How to best organize your stay in Spain?",
+"seoDescription": "Discover how to best organize your stay in Spain through our exclusive content on Barcelona, Madrid, Seville and many other cities.",
+"keywords": "Spain"
+},{
+"id": "187",
+"name": "The Nederlands",
+"slug": "the-nederlands",
+"seoTitle": "How to best organize your stay in the Netherlands?",
+"seoDescription": "Find out how to best organize your stay in Amsterdam and make the most of your trip there.",
+"keywords": "Netherlands"
+},{
+"id": "1",
+"name": "Uncategorized",
+"slug": "uncategorized",
+{
+"id": "404",
+"name": "United Kingdom",
+"slug": "united-kingdom",
+{
+"id": "63",
+"name": "Voyage - Europe",
+"slug": "voyage-europe",
+"seoTitle": "Europe centrale - Découvrez tout ce que vous devez savoir",
+"seoDescription": "Dans cette partie, on vous présente tous les éléments à connaître avant de partir pour un voyage au coeur des différents pays d'Europe centrale.",
+"keywords": "Europe centrale"
+},{
+"id": "408",
+"name": "Wales",
+"slug": "wales",
+{
+"id": "95",
+"name": "Allemagne",
+"slug": "allemagne",
+"seoTitle": "Comment organiser au mieux son séjour en Allemagne ?",
+"seoDescription": "Découvrez comment organiser au mieux votre séjour en Allemagne à travers nos contenus exclusifs sur Berlin, Munich, Nuremberg et tant d'autres viles.",
+"keywords": "Allemagne"
+},{
+"id": "396",
+"name": "Angleterre",
+"slug": "angleterre",
+{
+"id": "173",
+"name": "Austria",
+"slug": "austria",
+"seoTitle": "Find out what you need to know for your stay in Austria",
+"seoDescription": "Discover our valuable tips and tricks about Austria and organize your stay in Vienna, Innsbruck or Salzburg!",
+"keywords": "Austria"
+},{
+"id": "97",
+"name": "Autriche",
+"slug": "autriche",
+"seoTitle": "Découvrez ce qu'il faut savoir pour votre séjour en Autriche",
+"seoDescription": "Découvrez nos précieux conseils et bons plans au sujet de l'Autriche et organisez au mieux votre séjour à Vienne, Innsbruck ou Salzbourg !",
+"keywords": "Autriche"
+},{
+"id": "99",
+"name": "Belgique",
+"slug": "belgique",
+"seoTitle": "Comment organiser au mieux votre voyage en Belgique ?",
+"seoDescription": "Profitez de votre séjour en Belgique et découvrez tout des formidables trésors du "plat pays" : Bruxelles, Bruges et toutes ces superbes destinations.",
+"keywords": "Belgique"
+},{
+"id": "175",
+"name": "Belgium",
+"slug": "belgium",
+"seoTitle": "How to best organize your trip to Belgium?",
+"seoDescription": "Make the most of your stay in Belgium and discover all the wonderful treasures of the "flat country": Brussels, Bruges and all these superb destinations.",
+"keywords": "Belgium"
+},{
+"id": "205",
+"name": "Czech Republic",
+"slug": "czech-republic",
+"seoTitle": "Discover all about the major cities of the Czech Republic",
+"seoDescription": "Here we present you absolutely everything you want to know about the biggest cities in the Czech Republic (Brno, Karlovy Vary, Liberec etc...) ❤️",
+"keywords": "Czech republic"
+},{
+"id": "442",
+"name": "Danemark",
+"slug": "danemark",
+"seoTitle": "Danemark | Découvrez tout du Danemark et Copenhague",
+"seoDescription": "Découvrez tout ce qu'il faut savoir sur le Danemark et organisez au mieux votre séjour à Copenhague, Aarhus ou encore Odense et Aalborg.",
+{
+"id": "83",
+"name": "Découvrir le Qatar",
+"slug": "qatar",
+"seoTitle": "Découvrez tout de Doha et du Qatar",
+"seoDescription": "Vous envisagez de découvrir Doha, le Qatar et plus globalement, le Moyen-Orient ? Découvrez ici, tout ce qu'il faut savoir pour organiser au mieux votre séjour.",
+"keywords": "Qatar"
+},{
+"id": "107",
+"name": "Dubaï",
+"slug": "dubai",
+"seoTitle": "Découvrez absolument tout ce qu'il faut savoir sur Dubaï",
+"seoDescription": "Découvrez tout ce que vous devez savoir sur Dubaï et profitez au maximum de votre séjour dans les Émirats arabes unis avec Treepeo.",
+"keywords": "Dubaï"
+},{
+"id": "201",
+"name": "Dubai",
+"slug": "dubai-middle-east",
+"seoDescription": "Find out everything you need to know about Dubai and make the most of your stay in the United Arab Emirates with Treepeo.",
+"seoTitle": "Discover absolutely everything you need to know about Dubai",
+"keywords": "Dubaï"
+},{
+"id": "394",
+"name": "Ecosse",
+"slug": "ecosse",
+{
+"id": "410",
+"name": "England",
+"slug": "england",
+{
+"id": "109",
+"name": "Espagne",
+"slug": "espagne",
+"seoTitle": "Comment organiser au mieux son séjour en Espagne ?",
+"seoDescription": "Découvrez comment organiser au mieux votre séjour en Espagne à travers nos contenus exclusifs sur Barcelone, Madrid, Séville et tant d'autres viles.",
+"keywords": "Espagne"
+},{
+"id": "179",
+"name": "Estonia",
+"slug": "estonia",
+"seoTitle": "Discover all you need to know about Estonia and Tallinn",
+"seoDescription": "Planning a trip to Estonia? Find out everything you need to know about Tallinn, the capital, and the surrounding cultural and historical sites.",
+"keywords": "Estonia"
+},{
+"id": "111",
+"name": "Estonie",
+"slug": "estonie",
+"seoTitle": "Découvrez tout ce qu'il faut savoir sur l'Estonie et Tallinn",
+"seoDescription": "Vous envisagez de vous rendre en Estonie ? Découvrez tout ce que vous devez savoir sur Tallinn, la capitale, et les lieux culturels et historiques environnants.",
+"keywords": "Estonie"
+},{
+"id": "454",
+"name": "Finlande",
+"slug": "finlande-fr",
+"seoTitle": "Finlande | Tout savoir sur Helsinki et la Finlande",
+"seoDescription": "Découvrez tout ce qu'il faut savoir sur la Finlande, Helsinki et ses plus beaux endroits, pour un voyage exceptionnel en Europe du Nord.",
+"keywords": "Finlande"
+},{
+"id": "67",
+"name": "Hongrie",
+"slug": "hongrie",
+"seoTitle": "Découvrez tout ce qu'il faut savoir sur la Hongrie et Budapest",
+"seoDescription": "Vous envisagez de vous rendre en Hongrie ? Découvrez tout ce que vous devez savoir sur Budapest, la capitale, et les lieux culturels et historiques environnants.",
+"keywords": "Hongrie"
+},{
+"id": "414",
+"name": "Ireland",
+"slug": "ireland",
+{
+"id": "412",
+"name": "Irlande",
+"slug": "irlande",
+{
+"id": "71",
+"name": "Lettonie",
+"slug": "lettonie",
+"seoTitle": "Lettonie : organisez au mieux votre séjour à Riga !",
+"seoDescription": "Organisez au mieux votre séjour à Riga grâce à nos différents articles, conseils et bons plans sur les meilleurs choses à faire sur place.",
+"keywords": "Lettonie"
+},{
+"id": "73",
+"name": "Lituanie",
+"slug": "lituanie",
+"seoTitle": "Lituanie : organisez au mieux votre séjour à Vilnius !",
+"seoDescription": "Organisez au mieux votre séjour à Vilnius grâce à nos différents articles, conseils et bons plans sur les meilleurs choses à faire sur place.",
+"keywords": "Lituanie"
+},{
+"id": "398",
+"name": "Pays de Galles",
+"slug": "pays-de-galles",
+{
+"id": "79",
+"name": "Pays-Bas",
+"slug": "pays-bas",
+"seoTitle": "Comment organiser au mieux son séjour aux Pays-Bas ?",
+"seoDescription": "Découvrez comment organiser au mieux votre séjour à Amsterdam et profitez pleinement de votre voyage sur place.",
+"keywords": "Pays-Bas"
+},{
+"id": "81",
+"name": "Pologne",
+"slug": "pologne",
+"seoTitle": "Pologne : organisez au mieux votre séjour en Europe",
+"seoDescription": "Organisez au mieux votre séjour dans les plus belles villes de Pologne, comme Cracovie, Varsovie et tant d'autres, pour des vacances exceptionnelles.",
+"keywords": "Pologne"
+},{
+"id": "418",
+"name": "Portugal",
+"slug": "voyage-europe-portugal",
+{
+"id": "85",
+"name": "République tchèque",
+"slug": "republique-tcheque",
+"seoTitle": "Découvrez tout des grandes villes de République tchèque",
+"seoDescription": "Ici, on vous présente absolument tout ce que vous souhaitez connaître sur les plus grandes villes de République tchèque (Brno, Karlovy Vary, Liberec etc...) ❤️",
+"keywords": "République tchèque"
+},{
+"id": "87",
+"name": "Roumanie",
+"slug": "roumanie",
+"seoTitle": "Roumanie : organisez au mieux votre séjour en Europe",
+"seoDescription": " Organisez au mieux votre séjour dans la capitale de Roumanie, Bucarest, pour des vacances exceptionnelles.",
+"keywords": "Roumanie"
+},{
+"id": "406",
+"name": "Scotland",
+"slug": "scotland",
+{
+"id": "89",
+"name": "Slovaquie",
+"slug": "slovaquie",
+"seoTitle": "Slovaquie : organisez au mieux votre séjour à Bratislava !",
+"seoDescription": "Organisez au mieux votre séjour à Bratislava et en Slovaquie grâce à nos différents articles, conseils et bons plans sur les meilleurs choses à faire sur place.",
+"keywords": "Slovaquie"
+},{
+"id": "91",
+"name": "Slovénie",
+"slug": "slovenie",
+"seoTitle": "Comment organiser au mieux son séjour en Slovénie ?",
+"seoDescription": "Organisez au mieux votre séjour à Ljubljana, grâce à nos différents articles, conseils et bons plans sur les meilleurs choses à faire sur place.",
+"keywords": "Slovénie"
+},
+]
+}
