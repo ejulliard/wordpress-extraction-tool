@@ -25,7 +25,7 @@ for item in root.iter('item'):
     content = item.find("content:encoded", NS_MAP).text
     if content:
         # SAVE CONTENT EXTRACTED
-        content_file = open("out/posts/" + name + ".md", "w")
+        content_file = open("out/contents/" + name + ".md", "w")
         content_file.write(markdownify.markdownify(content))
         content_file.close()
     

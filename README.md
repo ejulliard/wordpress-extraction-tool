@@ -66,7 +66,6 @@ NS_MAP = {
 - extract_content.py : Extraction de tout le contenu de vos page et enregistrement dans le dossier out/content/ sous format .md avec le slug comme titre.
 - extract_meta.py : Extraction des méta-données, des catégories et des tags et création des fichiers JSON.
 - extract_images.py : Extraction de toutes les images présentes dans les pages html puis migration seulement des images nécessaires dans le dossier out/assets/
-- all_in_one.py : Lance toutes les extraction d'un coup.
 
   **ATTENTION: LES FICHIERS JSON CONTENUS DANS LE DOSSIER /OUT DOIVENT ÊTRE SUPPRIMÉS AVANT DE RELANCER LE PROGRAMME**
 
@@ -86,7 +85,7 @@ In summary, our website migration tool is a simple, efficient, and fast solution
 
 ## How it Works?
 
-To facilitate the integration process into your new framework, our tool generates basic files: JSON for data and Markdown for content. 
+To facilitate the integration process into your new framework, our tool generates basic files: JSON for data and Markdown for content.
 Plus, it's RankMath friendly!
 
 ### Why JSON?
@@ -139,6 +138,5 @@ NS_MAP = {
 - extract_content.py: Extract all your page content and save it in the out/content/ folder in .md format with the slug as title.
 - extract_meta.py: Extract metadata, categories, and tags and create JSON files.
 - extract_images.py: Extract all images present in the HTML pages and migrate only the necessary images to the out/assets/ folder.
-- all_in_one.py: Runs all the extraction at once.
 
 **NOTE: THE JSON FILES CONTAINED IN THE /OUT FOLDER MUST BE DELETED BEFORE RUNNING THE PROGRAM AGAIN**
